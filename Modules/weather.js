@@ -17,6 +17,7 @@ weather.commands = {
 		run: (p, args, user, channel, event) => {
 		  //The city is given in args[0].
 			//p.reply(event, user.tag+"you can reply to commands like this")
+			fuk u
 		}
 	}
 }
